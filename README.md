@@ -1,8 +1,8 @@
-# Task 3: Fraud Detection with Machine Learning
+# Task 4: House Price Prediction
 
-This project detects fraudulent credit card transactions using a Random Forest classifier.
+This task builds regression models to predict house prices using the California Housing Dataset.
 
 ## How to Run
 ```bash
-python fraud_detection.py
+python house_price_prediction.py
 ```
