@@ -1,8 +1,8 @@
-# Task 2: Text Sentiment Analysis
+# Task 3: Fraud Detection with Machine Learning
 
-This task involves building a sentiment analysis classifier on IMDB reviews.
+This project detects fraudulent credit card transactions using a Random Forest classifier.
 
 ## How to Run
 ```bash
-python sentiment_analysis.py
+python fraud_detection.py
 ```
