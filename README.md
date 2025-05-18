@@ -1,8 +1,8 @@
-# Task 1: Exploratory Data Analysis (EDA) & Visualization
+# Task 2: Text Sentiment Analysis
 
-This task involves performing EDA on the Titanic dataset using pandas, seaborn, and matplotlib.
+This task involves building a sentiment analysis classifier on IMDB reviews.
 
 ## How to Run
 ```bash
-python eda_titanic.py
+python sentiment_analysis.py
 ```
